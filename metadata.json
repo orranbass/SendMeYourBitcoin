@@ -1,0 +1,5 @@
+{
+  "name": "Send Me Your Bitcoin",
+  "description": "Easily generate and display a Bitcoin QR code for receiving payments. Just show the screen and say 'send me your bitcoin' to get paid instantly.",
+  "requestFramePermissions": []
+}
